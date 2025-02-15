@@ -2,7 +2,7 @@
 - 👀 I’m interested in crypto.
 - 🌱 I’m currently learning Python,Java,Javascript.
 - 💞️ I’m looking to collaborate on dogecoin.
-- 📫 How to reach me https://twitter.com/home.
+- 📫 How to reach me XXXX.
 
 <!---
 DaiseiYamazaki/DaiseiYamazaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
